@@ -13,21 +13,22 @@ const services = [
   {
     id: 1,
     cover: card1,
-    name: 'Corte de cabelo',
-    description: 'Cortes profissionais e modernos para valorizar seu estilo.',
+    name: 'Serviços veterinários',
+    description:
+      'Cuide da saúde do seu amigo com exames, vacinação e consultas.',
   },
   {
     id: 2,
     cover: card2,
-    name: 'Barba aparada',
-    description:
-      'Dê uma bela forma pra sua barba com nossos cuidados especiais.',
+    name: 'Banho e tosa',
+    description: 'Deixe o seu pet bem limpinho com nossos produtos exclusivos.',
   },
   {
     id: 3,
     cover: card3,
-    name: 'Lavagem',
-    description: 'Cuide da limpeza da sua cabeça com produtos exclusivos.',
+    name: 'Hospedagem',
+    description:
+      'Vai viajar? Conte com a gente para cuidar do seu pet o tempo que precisar!',
   },
 ]
 
